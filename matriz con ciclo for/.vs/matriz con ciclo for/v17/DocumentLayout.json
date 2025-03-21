@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\matriz con ciclo for\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2C3F1F-CF72-4CC5-9ADE-5BA01897CF92}|..\\Ordenamiento por seleccion\\Ordenamiento por seleccion.vcxproj|E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Ordenamiento por seleccion\\Ordenamiento por seleccion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9754C5CD-56A7-413D-A042-9B832162797A}|..\\Ordenamiento de burbuja\\Ordenamiento de burbuja.vcxproj|E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Ordenamiento de burbuja\\Ordenamiento de burbuja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF5CB93-C429-43DA-8518-E499C5024E04}|..\\Ciclo for each con arrays\\Ciclo for each con arrays.vcxproj|E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Ciclo for each con arrays\\Ciclo for each con arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5E587-78D2-4054-B018-B4F0DEFF965A}|..\\Busqueda Binaria\\Busqueda Binaria.vcxproj|E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Busqueda Binaria\\Busqueda Binaria.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCF958-F913-40E6-9AFB-4165DE763F60}|..\\Bsqueda array\\Bsqueda array.vcxproj|E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Bsqueda array\\Bsqueda array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1DAF33-4D6B-4DA2-B8D1-46FFF76DD4A2}|matriz con ciclo for.vcxproj|E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\matriz con ciclo for\\matriz con ciclo for.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D1DAF33-4D6B-4DA2-B8D1-46FFF76DD4A2}|matriz con ciclo for.vcxproj|solutionrelative:matriz con ciclo for.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ordenamiento por seleccion.cpp",
+              "DocumentMoniker": "E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Ordenamiento por seleccion\\Ordenamiento por seleccion.cpp",
+              "RelativeDocumentMoniker": "..\\Ordenamiento por seleccion\\Ordenamiento por seleccion.cpp",
+              "ToolTip": "E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Ordenamiento por seleccion\\Ordenamiento por seleccion.cpp",
+              "RelativeToolTip": "..\\Ordenamiento por seleccion\\Ordenamiento por seleccion.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T20:39:58.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ordenamiento de burbuja.cpp",
+              "DocumentMoniker": "E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Ordenamiento de burbuja\\Ordenamiento de burbuja.cpp",
+              "RelativeDocumentMoniker": "..\\Ordenamiento de burbuja\\Ordenamiento de burbuja.cpp",
+              "ToolTip": "E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Ordenamiento de burbuja\\Ordenamiento de burbuja.cpp",
+              "RelativeToolTip": "..\\Ordenamiento de burbuja\\Ordenamiento de burbuja.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T20:14:09.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bsqueda array.cpp",
+              "DocumentMoniker": "E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Bsqueda array\\Bsqueda array.cpp",
+              "RelativeDocumentMoniker": "..\\Bsqueda array\\Bsqueda array.cpp",
+              "ToolTip": "E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Bsqueda array\\Bsqueda array.cpp",
+              "RelativeToolTip": "..\\Bsqueda array\\Bsqueda array.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T19:53:01.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Busqueda Binaria.cpp",
+              "DocumentMoniker": "E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Busqueda Binaria\\Busqueda Binaria.cpp",
+              "RelativeDocumentMoniker": "..\\Busqueda Binaria\\Busqueda Binaria.cpp",
+              "ToolTip": "E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Busqueda Binaria\\Busqueda Binaria.cpp",
+              "RelativeToolTip": "..\\Busqueda Binaria\\Busqueda Binaria.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T01:26:04.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ciclo for each con arrays.cpp",
+              "DocumentMoniker": "E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Ciclo for each con arrays\\Ciclo for each con arrays.cpp",
+              "RelativeDocumentMoniker": "..\\Ciclo for each con arrays\\Ciclo for each con arrays.cpp",
+              "ToolTip": "E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\Ciclo for each con arrays\\Ciclo for each con arrays.cpp",
+              "RelativeToolTip": "..\\Ciclo for each con arrays\\Ciclo for each con arrays.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T01:12:59.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "matriz con ciclo for.cpp",
+              "DocumentMoniker": "E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\matriz con ciclo for\\matriz con ciclo for.cpp",
+              "RelativeDocumentMoniker": "matriz con ciclo for.cpp",
+              "ToolTip": "E:\\tareas U\\tercer semestre\\programacion\\tarea 6\\matriz con ciclo for\\matriz con ciclo for.cpp",
+              "RelativeToolTip": "matriz con ciclo for.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T00:49:13.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
